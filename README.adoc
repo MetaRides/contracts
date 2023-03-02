@@ -1,4 +1,4 @@
-= %%PROJECT_NAME%% Contracts
+= MetaRides Contracts
 :table-stripes: none
 :table-caption: Contracts Table
 
@@ -13,13 +13,13 @@ endif::[]
 :fn-deprecated: footnote:deprecated[Deprecated. This contract is at the end of its lifecycle and will be disabled soon]
 :fn-discontinued: footnote:discontinued[Discontinued. This contract is no longer active, and is still here for posterity]
 
-This repository contains all contracts related to = %%PROJECT_NAME%%. Our intention is to help raise the standard of
+This repository contains all contracts related to MetaRides. Our intention is to help raise the standard of
 transparency across blockchain development.
 
 [NOTE]
 ====
 The existence of a contract in this repository does not guarantee that a contract has, or ever will be,
-used or integrated into the %%PROJECT_NAME%% ecosystem.
+used or integrated into the MetaRides ecosystem.
 ====
 
 .Security contact
